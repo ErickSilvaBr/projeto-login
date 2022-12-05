@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+
+    section {
+        width: 25rem;
+        height: 43em;
+    }
+    
+}
+
+
+/* Laptop */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
