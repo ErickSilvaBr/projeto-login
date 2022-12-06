@@ -29,8 +29,9 @@ main {
 
 section {
     width: 18.8rem;
-    height: 35.8rem;
+    height: 43%;
     border-radius: 20px;
+    padding-bottom: 10px;
 
 
 }
